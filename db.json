@@ -1,11 +1,36 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"TRACKING_ID": "123456789qwertzuui",
+	"ValidateAddressResponse": {
+		"ADDRESS_MATCH_RESPONSE": [{
+			"STREET": "Spaungasse",
+			"HOUSE_NUMBER": "15",
+			"CITY": "Wien",
+			"ZIP": "1200",
+			"SIMILARITY": "100",
+			"CONFIDENCE": "100",
+			"PARTIAL_CONFIDENCE": {
+				"STREET": "100",
+				"H_NR": "100",
+				"CITY": "100",
+				"ZIP": "100"
+			}
+		}, {
+			"STREET": "Spaungasse",
+			"HOUSE_NUMBER": "15xyz",
+			"CITY": "Wien",
+			"ZIP": "1200",
+			"SIMILARITY": "100",
+			"CONFIDENCE": "98",
+			"PARTIAL_CONFIDENCE": {
+				"STREET": "100",
+				"H_NR": "98",
+				"CITY": "100",
+				"ZIP": "100"
+			}
+		}],
+		"CANDIDATE_COUNT": "2"
+	},
+	"STATUS": {
+		"STATUS_CODE": "0"
+	}
 }
