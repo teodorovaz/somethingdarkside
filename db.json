@@ -1,6 +1,5 @@
 {
 	"TRACKING_ID": "1c3f2ddab0fc11e89ac2",
-	"ValidateAddressResponse": {
 		"ADDRESS_MATCH_RESPONSE": [{
 				"STREET": "Wunderstrasse",
 				"HOUSE_NUMBER": "52",
@@ -29,8 +28,7 @@
 				}
 			}
 		],
-		"CANDIDATE_COUNT": "2"
-	},
+		"CANDIDATE_COUNT": "2",
 	"STATUS": {
 		"STATUS_CODE": "0"
 	}
