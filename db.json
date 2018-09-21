@@ -1,10 +1,10 @@
 {
 	"TRACKING_ID": "1c3f2ddab0fc11e89ac2",
 		"ADDRESS_MATCH_RESPONSE": [{
-				"STREET": "Wunderstrasse",
-				"HOUSE_NUMBER": "52",
+				"STREET": "Spaungasse",
+				"HOUSE_NUMBER": "15",
 				"CITY": "Wien",
-				"ZIP": "1210",
+				"ZIP": "1200",
 				"SIMILARITY": "100",
 				"CONFIDENCE": "100",
 				"PARTIAL_CONFIDENCE": {
@@ -14,10 +14,10 @@
 					"ZIP": "100"
 				}
 			}, {
-				"STREET": "Wunderstrasse",
-				"HOUSE_NUMBER": "52f",
+				"STREET": "Spaungasse",
+				"HOUSE_NUMBER": "15xyz",
 				"CITY": "Wien",
-				"ZIP": "1210",
+				"ZIP": "1200",
 				"SIMILARITY": "100",
 				"CONFIDENCE": "98",
 				"PARTIAL_CONFIDENCE": {
