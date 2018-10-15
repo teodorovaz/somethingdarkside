@@ -1,41 +1,8 @@
 {
-	"DV_AddressValidation": {
-		"AddressValidationResponse": {
-			"DELTAVISTA_ADDRESS_RESPONSE": {
-				"ADDRESS_MATCH_RESPONSE": [{
-						"STREET": "Wunderstrasse",
-						"HOUSE_NUMBER": "53",
-						"CITY": "Wien",
-						"ZIP": "1210",
-						"SIMILARITY": "100",
-						"CONFIDENCE": "100",
-						"PARTIAL_CONFIDENCE": {
-							"STREET": "100",
-							"H_NR": "100",
-							"CITY": "100",
-							"ZIP": "100"
-						}
-					},
-					{
-						"STREET": "Wunderstrasse",
-						"HOUSE_NUMBER": "52f",
-						"CITY": "Wien",
-						"ZIP": "1210",
-						"SIMILARITY": "100",
-						"CONFIDENCE": "98",
-						"PARTIAL_CONFIDENCE": {
-							"STREET": "100",
-							"H_NR": "98",
-							"CITY": "100",
-							"ZIP": "100"
-						}
-					}
-				],
-				"CANDIDATE_COUNT": "2"
-			},
-			"STATUS": {
-				"STATUS_CODE": "0"
-			}
-		}
-	}
+  "status":
+    {
+      "Status": 1,
+      "ErrorDescription": "' + testErrorDescription + '",' +
+      "ErrorCode": "TIBCO-BW-CORE-500622"
+    }
 }
