@@ -1,8 +1,9 @@
 {
-  "status":
-    {
-      "Status": 1,
-      "ErrorDescription": "The post-execute operation for the asynchronous activity [queryAllMasterParties]",
-      "ErrorCode": "TIBCO-BW-CORE-500622"
+    "data": {
+        "field1": "value1",
+        "field2": "value2"
+    },
+    "status": {
+        "Status": 0
     }
 }
