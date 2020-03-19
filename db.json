@@ -1,9 +1,10 @@
-{
-    "data": {
-        "field1": "value1",
-        "field2": "value2"
+[
+    {
+    "field1": "value1",
+    "field2": "value2"
     },
-    "status": {
-        "Status": 0
-    }
-}
+    {
+    "field1": "value3",
+    "field2": "value4"
+    },
+]
