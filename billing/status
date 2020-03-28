@@ -7,9 +7,9 @@
       "Cycle": "M15"
     },
     "CurrentBill": {
-      {
         "MRC": 3500.00,
         "NRC": 500.00,
         "Discount": 75.00
-      }
+    }
+  }
 }
