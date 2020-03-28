@@ -1,10 +1,15 @@
-[
-    {
-    "field1": "value1",
-    "field2": "value2"
+{
+  "BillingUnit": {
+    "BillUnitId": "0000045220012",
+    "SFAccountNb": "000456789",
+    "BillingCycle": {
+      "Frequency": "M",
+      "Cycle": "M15"
     },
-    {
-    "field1": "value3",
-    "field2": "value4"
+    "CurrentBill": {
+        "MRC": 3500.00,
+        "NRC": 500.00,
+        "Discount": 75.00
     }
-]
+  }
+}
